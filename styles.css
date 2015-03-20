@@ -1,0 +1,13 @@
+#presented{
+  color: red;
+}
+
+#where{
+  float:left;
+}
+#when{
+  float:right;
+}
+#lunch{
+  clear: both; 
+}
