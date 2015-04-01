@@ -1,13 +1,26 @@
 #presented{
   color: red;
+  background-color:white;
+
 }
 
-#where{
+#whereandwhen{
   float:left;
+  width:40%;
+  padding:2em;
+
 }
-#when{
-  float:right;
-}
+
 #lunch{
-  clear: both; 
+  float:clear;
+}
+#about{
+  float:left;
+  width: 40%;
+  padding:2em;
+  }
+
+header{
+  text-align:center;
+
 }
